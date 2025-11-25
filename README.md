@@ -11,6 +11,8 @@ The project is structured into three main views, each addressing specific depart
 ### A. Finance & Sales Dashboard
 This view focuses on core financial performance, sales volume, and pricing strategy.
 finance_dashboard <a href="https://github.com/krishnaverma0186-star/excel/blob/main/Screenshot%202025-11-25%20235534.png"> view dashboard</a>
+<img width="1865" height="786" alt="Screenshot 2025-11-25 235534" src="https://github.com/user-attachments/assets/428f2ae0-2525-411c-a3d3-1d289d0078f3" />
+
 
 | Analysis Feature | Description |
 | :--- | :--- |
@@ -24,6 +26,7 @@ finance_dashboard <a href="https://github.com/krishnaverma0186-star/excel/blob/m
 ### B. Customer Service Dashboard
 This view focuses on agent performance, interaction quality, and customer satisfaction (CSAT) trends.
 cs dashboard <a href="https://github.com/krishnaverma0186-star/excel/blob/main/Screenshot%202025-11-25%20235419.png">view dashboard</a>
+<img width="1082" height="792" alt="Screenshot 2025-11-25 235419" src="https://github.com/user-attachments/assets/72d84df9-70fe-46db-bf4c-fc18504c6163" />
 
 | Analysis Feature | Description |
 | :--- | :--- |
@@ -36,6 +39,8 @@ cs dashboard <a href="https://github.com/krishnaverma0186-star/excel/blob/main/S
 ### C. Order Fulfillment Dashboard
 This view tracks the efficiency and volume of product delivery and revenue generation.
 order dashboard <a href="https://github.com/krishnaverma0186-star/excel/blob/main/Screenshot%202025-11-25%20235639.png">view dahboard</a>
+<img width="1209" height="790" alt="Screenshot 2025-11-25 235639" src="https://github.com/user-attachments/assets/afd17832-0a44-4624-8395-65888857157f" />
+
 
 | Analysis Feature | Description |
 | :--- | :--- |
